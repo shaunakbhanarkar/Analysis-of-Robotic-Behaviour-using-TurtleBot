@@ -26,3 +26,9 @@ Project Description:
 - **Programming of multiple TurtleBots to coordinate and sync their movements in an open environment.**
 - **Comparison of real-time results with theoretically calculated path distances and timings.**
 
+Related Links:
+
+https://www.turtlebot.com/
+
+https://www.ros.org/
+
